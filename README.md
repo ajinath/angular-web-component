@@ -11,6 +11,11 @@
 - Replace the micro app [replace port] here to point your local build.
 - Replace the micro app [build name] here to point your local build
 
+### Demo 
+https://github.com/ajinath/angular-web-component/assets/10721663/d740104d-cef6-44da-8b57-95b86c8b2269
+
+
+
 
 [micro app]: <https://github.com/ajinath/angular-web-component/blob/main/micro-app/README.md>
 [shell app]: <https://github.com/ajinath/angular-web-component/blob/main/shell-app/README.md>
