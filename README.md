@@ -1,9 +1,13 @@
 # Create web component and consume using angular
 #### ( _A sample application created using angular 17 and node 18_ with lazy loading supported for web component)
 
+### Overview
+   This project consist of two projects [micro app] and [shell app]. The [micro app] creates a web component and [shell app] consume it.
+   [shell app] to [micro app] communication made using `window.postMessage`.
+
 ###  Installation 
 - Clone the repo
-- Change directory inside  [micro app] and [shell app] and do `npm install` using node 18(recommended)
+- Change directory inside  [micro app] and [shell app] and do `npm install`
 - Build the [micro app] and [shell app] using `npm run build`
 - Start the [micro app] on prod build using `npm run prod-serve`
 
@@ -18,7 +22,7 @@ https://github.com/ajinath/angular-web-component/assets/10721663/d740104d-cef6-4
 
 
 
-[micro app]: <https://github.com/ajinath/angular-web-component/blob/main/micro-app/README.md>
-[shell app]: <https://github.com/ajinath/angular-web-component/blob/main/shell-app/README.md>
+[micro app]: <https://github.com/ajinath/angular-web-component/blob/main/micro-app>
+[shell app]: <https://github.com/ajinath/angular-web-component/blob/main/shell-app>
 [replace port]: <https://github.com/ajinath/angular-web-component/blob/2ddf1a60383c544e10ee47ac5a06b5e9c0f22c5a/shell-app/src/app/app.component.ts#L26C5-L26C38>
 [build name]: <https://github.com/ajinath/angular-web-component/blob/2ddf1a60383c544e10ee47ac5a06b5e9c0f22c5a/shell-app/src/app/app.component.ts#L27C6-L27C30>
