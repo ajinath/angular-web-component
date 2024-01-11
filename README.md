@@ -7,7 +7,7 @@
 - Build the [micro app] and [shell app] using `npm run build`
 - Start the [micro app] on prod build using `npm run prod-serve`
 
-### Change port and build names
+### Change port and build name
 - Run the micro app prod build on 5000 port or [replace port] here.
 - Replace the [build name] here to point your local build
 
