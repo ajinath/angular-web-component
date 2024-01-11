@@ -1,0 +1,9 @@
+.pill-group {
+    display: flex;
+    flex-direction: row;
+    .pill {
+        padding: 1rem;
+        cursor: pointer;
+        color: blue;
+    }
+}
