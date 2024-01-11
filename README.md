@@ -8,8 +8,8 @@
 - Start the [micro app] on prod build using `npm run prod-serve`
 
 ### Change port and build name
-- Run the micro app prod build on 5000 port or [replace port] here.
-- Replace the [build name] here to point your local build
+- Replace the micro app [replace port] here to point your local build.
+- Replace the micro app [build name] here to point your local build
 
 
 [micro app]: <https://github.com/ajinath/angular-web-component/blob/main/micro-app/README.md>
