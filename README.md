@@ -1,4 +1,4 @@
-# Create and consume web component using angular
+# Create and consume web component using angular with lazy loading
 #### ( _A sample application created using angular 17 and node 18_ )
 
 ###  Installation 
@@ -7,7 +7,8 @@
 - Build the [micro app] and [shell app] using `npm run build`
 - Start the [micro app] on prod build using `npm run prod-serve`
 
-### Change port and build name
+### Run Application
+- Open the browser with CORS supported mode using extension.
 - Replace the micro app [replace port] here to point your local build.
 - Replace the micro app [build name] here to point your local build
 
