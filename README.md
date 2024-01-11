@@ -4,8 +4,8 @@
 ###  Steps 
 - Create micro app - [micro app]
 - Create shell app - [shell app]
-- Run the micro app build on 5000 port or [replace port] here.
-- Replace the [build name] here to point your local build 
+- Run the micro app prod build on 5000 port or [replace port] here.
+- Replace the [build name] here to point your local build
 
 
 [micro app]: <https://github.com/ajinath/angular-web-component/blob/main/micro-app/README.md>
