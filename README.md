@@ -1,9 +1,13 @@
 # Create and consume web component using angular
 #### ( _A sample application created using angular 17 and node 18_ )
 
-###  Steps 
-- Create micro app - [micro app]
-- Create shell app - [shell app]
+###  Installation 
+- Clone the repo
+- Change directory inside  [micro app] and [shell app] and do `npm install` using node 18(recommended)
+- Build the [micro app] and [shell app] using `npm run build`
+- Start the [micro app] on prod build using `npm run prod-serve`
+
+### Change port and build names
 - Run the micro app prod build on 5000 port or [replace port] here.
 - Replace the [build name] here to point your local build
 
