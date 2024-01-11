@@ -1,5 +1,5 @@
-# Create and consume web component using angular with lazy loading
-#### ( _A sample application created using angular 17 and node 18_ )
+# Create web component and consume using angular
+#### ( _A sample application created using angular 17 and node 18_ with lazy loading supported for web component)
 
 ###  Installation 
 - Clone the repo
